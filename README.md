@@ -11,10 +11,10 @@ Hi there! I'm a B.Tech Computer Science student passionate about building impact
     <b>🔍Lifelong Learner:</b> Constantly exploring new technologies and improving my skills through hands-on projects.
   </li>
 <h1 align='center'>📂 Repositories</h1>
-<h3>1. <a href='www.github.com/CyberKnight4269/Portfolio'>Portfolio</a></h3>
+<h3>1. <a href='https://www.github.com/CyberKnight4269/Portfolio'>Portfolio</a></h3>
 <li>A personal portfolio showcasing my projects, skills, and experiences.</li>
 <li>Built with React and deployed on Vercel.</li>
-<h3>2. <a href='www.github.com/CyberKnight4269/MelodyServer'>MelodyServer</a></h3>
+<h3>2. <a href='https://www.github.com/CyberKnight4269/MelodyServer'>MelodyServer</a></h3>
 <li>A backend server for a music application with a scalable design</li>
 <li>Built with Node.js, express, PostgreSQL</li>
 <h1 align='center'>🌟 Let's Connect</h1>
