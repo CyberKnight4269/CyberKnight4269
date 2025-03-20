@@ -23,6 +23,10 @@ Hello! I'm a B.Tech Computer Science student, passionate about building impactfu
 <h3>3. <a href='https://www.github.com/CyberKnight4269/MelodyServer'>Melody Server</a></h3>
 <li>A backend server for a music application with a scalable design</li>
 <li>Built with Node.js, express, PostgreSQL</li>
+<h3>4. <a href='https://www.github.com/CyberKnight4269/MNIST-ANN'>MNIST-ANN</a></h3>
+<li>A simple Artificial Neural Network model to predict hand-written digits</li>
+<li>Used Tensorflow Keras and the MNIST dataset</li>
+<li>Achieved 97.79% accuracy</li>
 <h1 align='center'>🌟 Let's Connect</h1>
 <li><b>Email: </b>kanaujiadivyansh@gmail.com</li>
 <li><b>LinkedIn: </b>www.linkedin.com/in/divyansh-kanaujia</li>
