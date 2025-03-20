@@ -5,9 +5,6 @@ Hello! I'm a B.Tech Computer Science student, passionate about building impactfu
     <b>🌟 Backend Enthusiast:</b> Skilled in Node.js, Express.js, PostgreSQL, and MongoDB with a strong focus on building scalable and efficient APIs.
   </li>
   <li>
-    <b>🎨 Frontend Developer:</b> Experienced with React, creating responsive and user-friendly web interfaces.
-  </li>
-  <li>
     <b>🧠 AI/ML Practitioner:</b> Proficient in supervised and unsupervised learning, with hands-on experience in Artificial Neural Networks.
   </li>
   <li>
